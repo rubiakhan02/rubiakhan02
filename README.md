@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Rubia Khan
-- 👀 Interested in Web Application Develpoment
-- 🌱 Currently learning React in depth
-- 💼 Open to collaborate on JavaScript-oriented Web Application Projects
+- 👋 Hi, I’m Rubia Khan 
+- 🌱 Currently working as AI/ML Engineer
 - 📫 Reach me at :  rubiakhan369@gmail.com
   
 <!---
